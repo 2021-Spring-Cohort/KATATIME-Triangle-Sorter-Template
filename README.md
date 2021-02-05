@@ -1,4 +1,4 @@
-#Triangle Sorting
+# Triangle Sorting
 
 From the Columbus Scala User Group's repo of katas is a simple kata to determine different types of triangles.
 
